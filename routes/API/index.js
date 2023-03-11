@@ -4,7 +4,7 @@ const fs = require('fs')
 const { v4: uuidv4 } = require('uuid');
 
 
-router.get('/', (req, res) => {
+router.get('/notes', (req, res) => {
     try {
         let currentNotes = db;
         res.status(200).json(currentNotes)
