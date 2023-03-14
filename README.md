@@ -1,6 +1,6 @@
 # Take_deez_notes
 
-[Here](https://take-deez-notes.herokuapp.com/notes) is the link to the video. 
+[Here](https://take-deez-notes.herokuapp.com/notes) is the link to the webpage. 
 
 ## Description
 This app is designed to take a note with a title granted to it and save it in a set of logs on the left of the screen so that one could reference their links, plans or events in their upcoming lives. You will be able to delete the notes and create new ones at will. Everyone forgets some important things they have to do or perhaps a date they had or even their facebook login, well now with this notes app they can worry no more. 
